@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**rubini-t/rubini-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rubini 👋
 
-Here are some ideas to get you started:
+### CSE Student | Aspiring Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science Engineering student passionate about building practical projects, learning new technologies, and solving real-world problems through code.
+
+## About Me
+
+- 🎓 Computer Science and Engineering student
+- 💻 Interested in AI/ML and Web Development
+- 🤖 Learning Large Language Models (LLMs) and RAG
+- 🌱 Continuously improving my programming skills
+
+## Technical Skills
+
+- **Programming:** Python, SQL, JavaScript
+- **Web Development:** HTML, CSS, React.js, Node.js
+- **AI/ML & Data Science:** Machine Learning, NumPy, Pandas, Matplotlib
+- **Tools:** Git, GitHub, VS Code
+
+## Projects
+
+- **Phone Scam Detection** — An AI/ML project focused on detecting phone scams.
+- **UdyogFlow** — A project focused on simplifying industrial approvals and compliance workflows.
+-  **Web Form Development** — Designed and developed a web form using HTML, CSS, and JavaScript.
+
+
+## Connect With Me
+
+- GitHub: [@rubini-t](https://github.com/rubini-t)
